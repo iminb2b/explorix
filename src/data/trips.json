@@ -1,0 +1,24 @@
+[{
+    "img": "/static/travel-5.jpg",
+    "alt":"Tian Tan Buddha",
+    "name":"Tian Tan Buddha",
+    "button":"View Destination"
+},
+{
+    "img": "/static/travel-2.jpg",
+    "alt":"Paris",
+    "name":"Paris",
+    "button":"View Destination"
+},
+{
+    "img": "/static/travel-5.jpg",
+    "alt":"Nghe An, Viet Nam",
+    "name":"Nghe An, Viet Nam",
+    "button":"View Destination"
+},
+{
+    "img": "/static/travel-2.jpg",
+    "alt":"Turkey",
+    "name":"Turkey",
+    "button":"View Destination"
+}]
